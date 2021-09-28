@@ -7,22 +7,13 @@ const Footer = () => {
       <hr style={{ width: "90%", marginTop: 20 }} />
       <span className="name">
         Made by{" "}
-        <a href="https://www.youtube.com/c/RoadsideCoder" target="__blank">
-          Roadside Coder
+        <a href="https://github.com/stupid-kid-af" target="__blank">
+          Stupid Kid Af
         </a>
       </span>
-      <div className="iconContainer">
-        <a href="https://www.instagram.com/roadsidecoder/" target="__blank">
-          <i className="fab fa-instagram-square fa-2x"></i>
-        </a>
-        <a href="https://www.linkedin.com/in/piyush-eon" target="__blank">
-          <i className="fab fa-linkedin fa-2x"></i>
-        </a>
-        <a href="https://www.youtube.com/c/RoadsideCoder" target="__blank">
-          <i className="fab fa-youtube fa-2x"></i>
-        </a>
-      </div>
-    </div>
+
+      </div>  
+  
   );
 };
 
