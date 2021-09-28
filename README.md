@@ -14,6 +14,11 @@ You can also check out site on https://stupid-kid-af.github.io/Dictionary-ReactJ
 
 In the project directory, you can run:
 
+### `yarn install`or `npm install`
+
+Initialize the npm commands in repo.\
+Use npm  install when yarn didn't work.
+
 ### `yarn start` or `npm start`
 
 Runs the app in the development mode.\
