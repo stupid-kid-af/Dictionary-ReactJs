@@ -1,3 +1,6 @@
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/stupid-kid-af/Dictionary-ReactJs"> <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/stupid-kid-af/Dictionary-ReactJs/total">  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/stupid-kid-af/Dictionary-ReactJs?style=social"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/stupid-kid-af/Dictionary-ReactJs?style=social">  <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/stupid-kid-af/Dictionary-ReactJs"> <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/stupid-kid-af/Dictionary-ReactJs">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
