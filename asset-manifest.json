@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Dictionary-ReactJs/static/css/main.383e7d85.chunk.css",
-    "main.js": "/Dictionary-ReactJs/static/js/main.2be55de5.chunk.js",
-    "main.js.map": "/Dictionary-ReactJs/static/js/main.2be55de5.chunk.js.map",
+    "main.js": "/Dictionary-ReactJs/static/js/main.550d8516.chunk.js",
+    "main.js.map": "/Dictionary-ReactJs/static/js/main.550d8516.chunk.js.map",
     "runtime-main.js": "/Dictionary-ReactJs/static/js/runtime-main.8368be24.js",
     "runtime-main.js.map": "/Dictionary-ReactJs/static/js/runtime-main.8368be24.js.map",
-    "static/js/2.9a30b7db.chunk.js": "/Dictionary-ReactJs/static/js/2.9a30b7db.chunk.js",
-    "static/js/2.9a30b7db.chunk.js.map": "/Dictionary-ReactJs/static/js/2.9a30b7db.chunk.js.map",
+    "static/js/2.62f8bb0e.chunk.js": "/Dictionary-ReactJs/static/js/2.62f8bb0e.chunk.js",
+    "static/js/2.62f8bb0e.chunk.js.map": "/Dictionary-ReactJs/static/js/2.62f8bb0e.chunk.js.map",
     "index.html": "/Dictionary-ReactJs/index.html",
     "service-worker.js": "/Dictionary-ReactJs/service-worker.js",
     "service-worker.js.map": "/Dictionary-ReactJs/service-worker.js.map",
     "static/css/main.383e7d85.chunk.css.map": "/Dictionary-ReactJs/static/css/main.383e7d85.chunk.css.map",
-    "static/js/2.9a30b7db.chunk.js.LICENSE.txt": "/Dictionary-ReactJs/static/js/2.9a30b7db.chunk.js.LICENSE.txt"
+    "static/js/2.62f8bb0e.chunk.js.LICENSE.txt": "/Dictionary-ReactJs/static/js/2.62f8bb0e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8368be24.js",
-    "static/js/2.9a30b7db.chunk.js",
+    "static/js/2.62f8bb0e.chunk.js",
     "static/css/main.383e7d85.chunk.css",
-    "static/js/main.2be55de5.chunk.js"
+    "static/js/main.550d8516.chunk.js"
   ]
 }
